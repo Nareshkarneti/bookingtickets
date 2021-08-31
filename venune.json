@@ -1,0 +1,28 @@
+{
+ "venue": {
+ "layout": {
+ "rows": 10,
+ "columns": 12
+ }
+ },
+ "seats": {
+ "a1": {
+ "id": "a1",
+ "row": "h",
+ "column": 1,
+ "status": "A"
+ },
+ "b5": {
+ "id": "b5",
+ "row": "b",
+ "column": 5,
+ "status": "U"
+ },
+ "h7": {
+ "id": "h7",
+ "row": "h",
+ "column": 7,
+ "status": "A"
+ }
+ }
+}
